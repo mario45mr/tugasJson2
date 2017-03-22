@@ -1,0 +1,1485 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "yesterday": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "13",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		{
+		"date": {
+		"pretty": "12:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "1:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "13",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24", "tempi":"76","dewptm":"22", "dewpti":"71","hum":"81","wspdm":"18.5", "wspdi":"11.5","wgustm":"", "wgusti":"","wdird":"30","wdire":"NNE","vism":"15", "visi":"9","pressurem":"1016", "pressurei":"30.01","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Haze","icon":"hazy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 20134 94767 41465 70310 10245 20218 30156 40162 50003 70522 8263/ 333 1////" },
+		{
+		"date": {
+		"pretty": "12:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "1:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "13",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"22.0", "dewpti":"71.6","hum":"83","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1016", "pressurei":"30.01","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201300Z 03010KT 9999 FEW012 BKN160 25/22 Q1016 NOSIG" },
+		{
+		"date": {
+		"pretty": "1:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "01",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "2:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "14",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24", "tempi":"76","dewptm":"22", "dewpti":"71","hum":"80","wspdm":"14.8", "wspdi":"9.2","wgustm":"", "wgusti":"","wdird":"40","wdire":"NE","vism":"", "visi":"","pressurem":"1016", "pressurei":"30.00","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 20144 94767 46/// /0408 10242 20217 30151 40157" },
+		{
+		"date": {
+		"pretty": "1:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "01",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "2:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "14",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"22.0", "dewpti":"71.6","hum":"89","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"40","wdire":"NE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201400Z 04008KT 9999 FEW012 BKN150 24/22 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "1:30 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "01",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "2:30 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "14",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"22.0", "dewpti":"71.6","hum":"89","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201430Z 02009KT 9999 FEW012 BKN150 24/22 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "2:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "02",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "3:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "15",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24", "tempi":"75","dewptm":"22", "dewpti":"72","hum":"87","wspdm":"16.7", "wspdi":"10.4","wgustm":"", "wgusti":"","wdird":"30","wdire":"NNE","vism":"", "visi":"","pressurem":"1016", "pressurei":"29.99","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 20154 94767 46/// /0309 10240 20221 30149 40155" },
+		{
+		"date": {
+		"pretty": "2:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "02",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "3:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "15",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"22.0", "dewpti":"71.6","hum":"89","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201500Z 03009KT 9999 FEW012 BKN150 24/22 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "2:30 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "02",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "3:30 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "15",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"22.0", "dewpti":"71.6","hum":"89","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201530Z 03009KT 9999 FEW010 BKN150 24/22 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "3:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "03",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "4:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "16",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24", "tempi":"75","dewptm":"22", "dewpti":"72","hum":"87","wspdm":"16.7", "wspdi":"10.4","wgustm":"", "wgusti":"","wdird":"30","wdire":"NNE","vism":"15", "visi":"9","pressurem":"1015", "pressurei":"29.97","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Haze","icon":"hazy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 20164 94767 11465 70309 10239 20222 30143 40149 58013 60001 70522 8267/" },
+		{
+		"date": {
+		"pretty": "3:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "03",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "4:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "16",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"22.0", "dewpti":"71.6","hum":"89","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1014", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201600Z 03009KT 9999 FEW010 BKN150 BKN190 24/22 Q1014 NOSIG" },
+		{
+		"date": {
+		"pretty": "3:30 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "03",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "4:30 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "16",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"22.0", "dewpti":"71.6","hum":"89","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1014", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201630Z 02010KT 9999 FEW010 SCT145 BKN170 24/22 Q1014 NOSIG" },
+		{
+		"date": {
+		"pretty": "4:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "04",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "5:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "17",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"22.0", "dewpti":"71.6","hum":"89","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"10","wdire":"North","vism":"10.0", "visi":"6.2","pressurem":"1014", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201700Z 01008KT 9999 FEW010 SCT020 BKN165 24/22 Q1014 NOSIG" },
+		{
+		"date": {
+		"pretty": "4:30 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "04",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "5:30 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "17",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"22.0", "dewpti":"71.6","hum":"89","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1014", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201730Z 03009KT 9999 FEW010 SCT020 BKN160 24/22 Q1014 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "05",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "6:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "18",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24", "tempi":"75","dewptm":"22", "dewpti":"72","hum":"86","wspdm":"16.7", "wspdi":"10.4","wgustm":"", "wgusti":"","wdird":"40","wdire":"NE","vism":"", "visi":"","pressurem":"1014", "pressurei":"29.96","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 20184 94767 46/// /0409 10237 20220 30138 40144" },
+		{
+		"date": {
+		"pretty": "5:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "05",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "6:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "18",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"22.0", "dewpti":"71.6","hum":"89","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"40","wdire":"NE","vism":"10.0", "visi":"6.2","pressurem":"1014", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201800Z 04009KT 9999 FEW010 SCT020 BKN140 24/22 Q1014 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "06",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "7:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "19",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24", "tempi":"75","dewptm":"22", "dewpti":"72","hum":"87","wspdm":"14.8", "wspdi":"9.2","wgustm":"", "wgusti":"","wdird":"30","wdire":"NNE","vism":"15", "visi":"9","pressurem":"1014", "pressurei":"29.96","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Haze","icon":"hazy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 20194 94767 41365 70308 10238 20221 30138 40144 56005 70522 84630" },
+		{
+		"date": {
+		"pretty": "6:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "06",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "7:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "19",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"22.0", "dewpti":"71.6","hum":"89","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1014", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201900Z 03008KT 9999 SCT009 BKN120 24/22 Q1014 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:30 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "06",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "7:30 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "19",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"22.0", "dewpti":"71.6","hum":"89","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1014", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 201930Z 02009KT 9999 SCT009 BKN160 24/22 Q1014 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:50 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "06",
+		"min": "50",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "7:50 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "19",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"22.0", "dewpti":"71.6","hum":"83","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI YSSY 201950Z 02008KT 9999 FEW009 BKN013 BKN170 25/22 Q1015 FM2030 02010KT 9999 -SHRA FEW010 SCT018" },
+		{
+		"date": {
+		"pretty": "7:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "07",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "8:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "20",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25", "tempi":"76","dewptm":"22", "dewpti":"72","hum":"82","wspdm":"16.7", "wspdi":"10.4","wgustm":"", "wgusti":"","wdird":"30","wdire":"NNE","vism":"", "visi":"","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 20204 94767 46/// /0309 10247 20220 30145 40151" },
+		{
+		"date": {
+		"pretty": "7:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "07",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "8:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "20",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"22.0", "dewpti":"71.6","hum":"83","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 202000Z 03009KT 9999 FEW009 BKN013 BKN120 25/22 Q1015 FM2100 02010KT 9999 -SHRA FEW010 SCT018" },
+		{
+		"date": {
+		"pretty": "7:30 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "07",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "8:30 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "20",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"22.0", "dewpti":"71.6","hum":"83","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 202030Z 02010KT 9999 FEW010 SCT013 BKN120 25/22 Q1015 FM2100 02010KT 9999 -SHRA FEW010 SCT018" },
+		{
+		"date": {
+		"pretty": "8:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "08",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "9:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "21",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25", "tempi":"77","dewptm":"22", "dewpti":"71","hum":"77","wspdm":"18.5", "wspdi":"11.5","wgustm":"", "wgusti":"","wdird":"20","wdire":"NNE","vism":"", "visi":"","pressurem":"1015", "pressurei":"29.99","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 20214 94767 46/// /0210 10248 20217 30148 40154" },
+		{
+		"date": {
+		"pretty": "8:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "08",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "9:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "21",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"22.0", "dewpti":"71.6","hum":"83","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 202100Z 02010KT 9999 SCT012 BKN120 BKN170 25/22 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:30 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "08",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "9:30 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "21",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"22.0", "dewpti":"71.6","hum":"83","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 202130Z 02009KT 9999 FEW012 BKN020 BKN170 25/22 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "09",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "10:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "22",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"26", "tempi":"78","dewptm":"22", "dewpti":"71","hum":"74","wspdm":"14.8", "wspdi":"9.2","wgustm":"", "wgusti":"","wdird":"30","wdire":"NNE","vism":"20", "visi":"12","pressurem":"1016", "pressurei":"29.99","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Light Rain Showers","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 20224 94767 01470 70308 10257 20218 30150 40156 51012 69904 78022 878// 333 79999" },
+		{
+		"date": {
+		"pretty": "9:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "09",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "10:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "22",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"22.0", "dewpti":"71.6","hum":"78","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Light Rain Showers","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 202200Z 03008KT 9999 -SHRA FEW012 SCT015 BKN018 26/22 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:30 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "09",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "10:30 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "22",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"21.0", "dewpti":"69.8","hum":"78","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"40","wdire":"NE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 202230Z 04007KT 9999 FEW013 SCT015 BKN018 25/21 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "10",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "11:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "23",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25", "tempi":"78","dewptm":"21", "dewpti":"71","hum":"72","wspdm":"13.0", "wspdi":"8.1","wgustm":"", "wgusti":"","wdird":"20","wdire":"NNE","vism":"", "visi":"","pressurem":"1016", "pressurei":"30.00","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 20234 94767 46/// /0207 10253 20214 30152 40158" },
+		{
+		"date": {
+		"pretty": "10:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "10",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "11:00 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "23",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"21.0", "dewpti":"69.8","hum":"78","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 202300Z 02007KT 9999 FEW013TCU BKN016 25/21 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:30 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "10",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "11:30 PM GMT on March 20, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "20",
+		"hour": "23",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"22.0", "dewpti":"71.6","hum":"83","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"50","wdire":"NE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 202330Z 05007KT 9999 FEW013 BKN016 BKN020 25/22 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "11",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "12:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "00",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"26", "tempi":"79","dewptm":"22", "dewpti":"71","hum":"70","wspdm":"9.3", "wspdi":"5.8","wgustm":"", "wgusti":"","wdird":"40","wdire":"NE","vism":"", "visi":"","pressurem":"1015", "pressurei":"29.99","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21004 94767 46/// /0405 10263 20217 30148 40154" },
+		{
+		"date": {
+		"pretty": "11:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "11",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "12:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "00",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"22.0", "dewpti":"71.6","hum":"78","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"40","wdire":"NE","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 210000Z 04005KT 9999 FEW014 BKN016 BKN020 26/22 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:30 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "11",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "12:30 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "00",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"22.0", "dewpti":"71.6","hum":"78","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"10.0", "visi":"6.2","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 210030Z 00000KT 9999 FEW014 BKN016 BKN018 26/22 Q1015 TEMPO 0300/0330 VRB20G30KT 3000 TSRA BKN010 FEW030CB" },
+		{
+		"date": {
+		"pretty": "12:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "12",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "1:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "01",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"27", "tempi":"81","dewptm":"22", "dewpti":"72","hum":"67","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"70","wdire":"ENE","vism":"22", "visi":"14","pressurem":"1015", "pressurei":"29.97","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21014 94767 41472 60706 10274 20221 30141 40147 58009 70222 84830 333 2////" },
+		{
+		"date": {
+		"pretty": "12:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "12",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "1:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "01",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"27.0", "tempi":"80.6","dewptm":"22.0", "dewpti":"71.6","hum":"74","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1014", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"29.2", "heatindexi":"84.6","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 210100Z 07006KT 030V100 9999 SCT017 BKN140 27/22 Q1014 TEMPO 0330/0400 VRB20G30KT 3000 TSRA BKN010 FEW030CB" },
+		{
+		"date": {
+		"pretty": "1:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "13",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "2:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "02",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"28", "tempi":"82","dewptm":"22", "dewpti":"71","hum":"63","wspdm":"1.9", "wspdi":"1.2","wgustm":"", "wgusti":"","wdird":"50","wdire":"NE","vism":"", "visi":"","pressurem":"1014", "pressurei":"29.94","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21024 94767 46/// /0501 10276 20219 30132 40138" },
+		{
+		"date": {
+		"pretty": "1:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "13",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "2:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "02",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"28.0", "tempi":"82.4","dewptm":"22.0", "dewpti":"71.6","hum":"70","wspdm":"1.9", "wspdi":"1.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"50","wdire":"NE","vism":"10.0", "visi":"6.2","pressurem":"1013", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"30.7", "heatindexi":"87.2","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 210200Z 05001KT 9999 SCT020 BKN100 BKN170 28/22 Q1013 TEMPO 0400/0430 VRB20G30KT 3000 TSRA BKN010 FEW030CB" },
+		{
+		"date": {
+		"pretty": "2:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "14",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "3:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "03",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"27", "tempi":"80","dewptm":"22", "dewpti":"71","hum":"69","wspdm":"24.1", "wspdi":"15.0","wgustm":"", "wgusti":"","wdird":"60","wdire":"ENE","vism":"", "visi":"","pressurem":"1013", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21034 94767 46/// /0613 10267 20219 30125 40131" },
+		{
+		"date": {
+		"pretty": "2:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "14",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "3:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "03",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"27.0", "tempi":"80.6","dewptm":"22.0", "dewpti":"71.6","hum":"74","wspdm":"24.1", "wspdi":"15.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1013", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"29.2", "heatindexi":"84.6","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 210300Z 06013KT 9999 FEW030 SCT120 BKN180 27/22 Q1013 TEMPO 0430/0600 VRB20G30KT 3000 TSRA BKN010 FEW030CB" },
+		{
+		"date": {
+		"pretty": "2:30 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "14",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "3:30 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "03",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"28.0", "tempi":"82.4","dewptm":"23.0", "dewpti":"73.4","hum":"74","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"31.2", "heatindexi":"88.2","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 210330Z 06011KT 9999 FEW030 BKN180 28/23 Q1012 TEMPO 0500/0630 VRB20G30KT 3000 TSRA BKN010 FEW030CB" },
+		{
+		"date": {
+		"pretty": "3:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "15",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "4:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "04",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"27", "tempi":"81","dewptm":"22", "dewpti":"72","hum":"67","wspdm":"16.7", "wspdi":"10.4","wgustm":"", "wgusti":"","wdird":"70","wdire":"ENE","vism":"25", "visi":"16","pressurem":"1012", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21044 94767 11675 60709 10274 20221 30118 40124 56023 60001 70322 82833" },
+		{
+		"date": {
+		"pretty": "3:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "15",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "4:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "04",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"27.0", "tempi":"80.6","dewptm":"22.0", "dewpti":"71.6","hum":"74","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"29.2", "heatindexi":"84.6","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 210400Z 07009KT 9999 FEW035 BKN180 27/22 Q1012 TEMPO 0500/0700 VRB20G30KT 3000 TSRA BKN010 FEW030CB" },
+		{
+		"date": {
+		"pretty": "3:30 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "15",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "4:30 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "04",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"27.0", "tempi":"80.6","dewptm":"22.0", "dewpti":"71.6","hum":"74","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"80","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"29.2", "heatindexi":"84.6","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 210430Z 08011KT 9999 FEW032 BKN100 27/22 Q1012 TEMPO 0500/0730 VRB20G30KT 3000 TSRA BKN010 SCT030CB" },
+		{
+		"date": {
+		"pretty": "4:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "16",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "5:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "05",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"26", "tempi":"80","dewptm":"22", "dewpti":"71","hum":"67","wspdm":"20.4", "wspdi":"12.7","wgustm":"", "wgusti":"","wdird":"60","wdire":"ENE","vism":"", "visi":"","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21054 94767 46/// /0611 10264 20216 30114 40120" },
+		{
+		"date": {
+		"pretty": "4:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "16",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "5:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "05",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"22.0", "dewpti":"71.6","hum":"78","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 210500Z 06011KT 9999 FEW032 SCT040 BKN110 26/22 Q1012 W. TEMPO 0530/0800 VRB20G30KT 3000 TSRA BKN010 SCT030CB" },
+		{
+		"date": {
+		"pretty": "4:35 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "16",
+		"min": "35",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "5:35 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "05",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"22.0", "dewpti":"71.6","hum":"78","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Light Thunderstorms and Rain","icon":"tstorms","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"1","tornado":"0","metar":"SPECI YSSY 210535Z 07007KT 9999 -TSRA SCT032 SCT100 BKN140 FEW060CB 26/22 Q1012 FM0615 04008KT 9999 -SHRA SCT030 TEMPO 0615/0835 3000 TSRA BKN010 SCT030CB" },
+		{
+		"date": {
+		"pretty": "5:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "17",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "6:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "06",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25", "tempi":"77","dewptm":"23", "dewpti":"73","hum":"83","wspdm":"14.8", "wspdi":"9.2","wgustm":"", "wgusti":"","wdird":"70","wdire":"ENE","vism":"", "visi":"","pressurem":"1012", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21064 94767 46/// /0708 10252 20227 30117 40123" },
+		{
+		"date": {
+		"pretty": "5:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "17",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "6:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "06",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"23.0", "dewpti":"73.4","hum":"89","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Light Thunderstorms and Rain","icon":"tstorms","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"1","tornado":"0","metar":"METAR YSSY 210600Z 07008KT 9999 -TSRA SCT027 BKN065 BKN100 SCT045CB 25/23 Q1012 FM0645 04008KT 9999 -SHRA SCT030 TEMPO 0645/0900 3000 TSRA BKN010 SCT030CB" },
+		{
+		"date": {
+		"pretty": "5:14 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "17",
+		"min": "14",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "6:14 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "06",
+		"min": "14",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"24.0", "dewpti":"75.2","hum":"94","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"6.0", "visi":"3.7","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Thunderstorms and Rain","icon":"tstorms","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"1","tornado":"0","metar":"SPECI YSSY 210614Z 03005KT 6000 TSRA SCT027 BKN040 BKN070 SCT045CB 25/24 Q1012 FM0645 04008KT 9999 -SHRA SCT030 TEMPO 0645/0900 3000 TSRA BKN010 SCT030CB" },
+		{
+		"date": {
+		"pretty": "5:18 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "17",
+		"min": "18",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "6:18 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "06",
+		"min": "18",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"24.0", "dewpti":"75.2","hum":"94","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"2.5", "visi":"1.6","pressurem":"1013", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Heavy Thunderstorms and Rain","icon":"tstorms","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"1","tornado":"0","metar":"SPECI YSSY 210618Z 02005KT 2500 +TSRA SCT012 BKN027 BKN070 SCT045CB 25/24 Q1013 FM0645 04008KT 9999 -SHRA SCT030 TEMPO 0645/0900 3000 TSRA BKN010 SCT030CB" },
+		{
+		"date": {
+		"pretty": "5:24 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "17",
+		"min": "24",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "6:24 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "06",
+		"min": "24",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"24.0", "dewpti":"75.2","hum":"100","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"10","wdire":"North","vism":"1.0", "visi":"0.6","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Heavy Thunderstorms and Rain","icon":"tstorms","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"1","tornado":"0","metar":"SPECI YSSY 210624Z 01008KT 1000 +TSRA BKN010 BKN025 BKN070 SCT040CB 24/24 Q1012 FM0645 04008KT 9999 -SHRA SCT030 TEMPO 0645/0900 3000 TSRA BKN010 SCT030CB" },
+		{
+		"date": {
+		"pretty": "5:30 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "17",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "6:30 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "06",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"23.0", "tempi":"73.4","dewptm":"22.0", "dewpti":"71.6","hum":"94","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"350","wdire":"North","vism":"0.8", "visi":"0.5","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Heavy Thunderstorms and Rain","icon":"tstorms","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"1","tornado":"0","metar":"METAR YSSY 210630Z 35011KT 0800 +TSRA SCT008 BKN027 BKN032 SCT040CB 23/22 Q1012 FM0645 04008KT 9999 -SHRA SCT030 TEMPO 0645/0900 3000 TSRA BKN010 SCT030CB" },
+		{
+		"date": {
+		"pretty": "6:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "18",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "7:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"23", "tempi":"73","dewptm":"23", "dewpti":"73","hum":"99","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"100","wdire":"East","vism":"15", "visi":"9","pressurem":"1012", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Thunderstorms and Rain","icon":"tstorms","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"1","tornado":"0","metar":"AAXX 21074 94767 41465 81006 10230 20227 30119 40125 53001 79592 8497/" },
+		{
+		"date": {
+		"pretty": "6:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "18",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "7:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"23.0", "tempi":"73.4","dewptm":"23.0", "dewpti":"73.4","hum":"100","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"100","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Light Thunderstorms and Rain","icon":"tstorms","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"1","tornado":"0","metar":"METAR YSSY 210700Z 10006KT 060V130 9999 -TSRA FEW010 SCT025 BKN120 FEW040CB 23/23 Q1012 FM0715 04008KT 9999 -SHRA SCT030 TEMPO 0715/0900 3000 TSRA BKN010 SCT030CB" },
+		{
+		"date": {
+		"pretty": "6:30 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "18",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "7:30 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "07",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"23.0", "dewpti":"73.4","hum":"94","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Light Thunderstorms and Rain","icon":"tstorms","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"1","tornado":"0","metar":"METAR YSSY 210730Z 03005KT 9999 -TSRA FEW015 SCT025 BKN060 FEW040CB 24/23 Q1012 FM0745 04008KT 9999 -SHRA SCT025 TEMPO 0745/0900 3000 TSRA BKN010 SCT030CB" },
+		{
+		"date": {
+		"pretty": "7:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "19",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "8:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "08",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24", "tempi":"75","dewptm":"23", "dewpti":"74","hum":"95","wspdm":"5.6", "wspdi":"3.5","wgustm":"", "wgusti":"","wdird":"90","wdire":"East","vism":"", "visi":"","pressurem":"1013", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21084 94767 46/// /0903 10237 20232 30126 40132" },
+		{
+		"date": {
+		"pretty": "7:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "19",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "8:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "08",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"23.0", "dewpti":"73.4","hum":"94","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"90","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1013", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Light Thunderstorms and Rain","icon":"tstorms","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"1","tornado":"0","metar":"SPECI YSSY 210800Z 09003KT 9999 -TSRA SCT030 BKN050 BKN120 FEW040CB 24/23 Q1013 FM0815 04008KT 9999 -SHRA SCT025 TEMPO 0815/0900 3000 TSRA BKN010 SCT030CB" },
+		{
+		"date": {
+		"pretty": "7:30 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "19",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "8:30 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "08",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"24.0", "dewpti":"75.2","hum":"100","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"5.0", "visi":"3.1","pressurem":"1013", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Rain Showers","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 210830Z 32003KT 5000 SHRA FEW015 SCT020 BKN030 24/24 Q1013 FM0845 04008KT 9999 -SHRA SCT025 TEMPO 0830/0900 3000 TSRA BKN010 SCT030CB TEMPO 0900/1000 4000 SHRA BKN008" },
+		{
+		"date": {
+		"pretty": "7:49 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "19",
+		"min": "49",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "8:49 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "08",
+		"min": "49",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"24.0", "dewpti":"75.2","hum":"100","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"50","wdire":"NE","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Light Rain Showers","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI YSSY 210849Z 05010KT 9999 -SHRA FEW015 SCT025 BKN045 24/24 Q1012 TEMPO 0849/1000 4000 SHRA BKN008" },
+		{
+		"date": {
+		"pretty": "8:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "20",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "9:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "09",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24", "tempi":"75","dewptm":"24", "dewpti":"74","hum":"97","wspdm":"13.0", "wspdi":"8.1","wgustm":"", "wgusti":"","wdird":"90","wdire":"East","vism":"", "visi":"","pressurem":"1013", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21094 94767 46/// /0907 10237 20235 30123 40129" },
+		{
+		"date": {
+		"pretty": "8:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "20",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "9:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "09",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"24.0", "dewpti":"75.2","hum":"100","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"90","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Light Rain Showers","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI YSSY 210900Z 09007KT 9999 -SHRA FEW015 SCT025 BKN120 24/24 Q1012 TEMPO 0900/1000 4000 SHRA BKN008" },
+		{
+		"date": {
+		"pretty": "8:30 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "20",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "9:30 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "09",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"24.0", "dewpti":"75.2","hum":"100","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"40","wdire":"NE","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Light Rain Showers","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 210930Z 04009KT 9999 -SHRA FEW015 SCT100 BKN120 24/24 Q1012 TEMPO 1100/1200 4000 SHRA BKN008" },
+		{
+		"date": {
+		"pretty": "9:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "21",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "10:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "10",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24", "tempi":"76","dewptm":"23", "dewpti":"74","hum":"91","wspdm":"24.1", "wspdi":"15.0","wgustm":"", "wgusti":"","wdird":"40","wdire":"NE","vism":"18", "visi":"11","pressurem":"1013", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21104 94767 11468 80413 10242 20233 30121 40127 50002 60291 71399 8487/" },
+		{
+		"date": {
+		"pretty": "9:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "21",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "10:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "10",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"23.0", "dewpti":"73.4","hum":"94","wspdm":"24.1", "wspdi":"15.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"40","wdire":"NE","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 211000Z 04013KT 9999 VCSH FEW015 SCT030 BKN100 24/23 Q1012 INTER 1130/1230 4000 SHRA BKN010" },
+		{
+		"date": {
+		"pretty": "9:30 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "21",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "10:30 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "10",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"24.0", "dewpti":"75.2","hum":"100","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"10","wdire":"North","vism":"10.0", "visi":"6.2","pressurem":"1013", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 211030Z 01010KT 9999 FEW006 BKN110 24/24 Q1013 INTER 1200/1300 4000 SHRA BKN010" },
+		{
+		"date": {
+		"pretty": "10:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "22",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "11:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "11",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24", "tempi":"76","dewptm":"23", "dewpti":"74","hum":"91","wspdm":"13.0", "wspdi":"8.1","wgustm":"", "wgusti":"","wdird":"0","wdire":"North","vism":"", "visi":"","pressurem":"1013", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21114 94767 46/// /3607 10243 20233 30123 40129" },
+		{
+		"date": {
+		"pretty": "10:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "22",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "11:00 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "11",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"23.0", "dewpti":"73.4","hum":"94","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"360","wdire":"North","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 211100Z 36007KT 9999 FEW015 BKN140 24/23 Q1012 FM1130 34008KT 9999 -SHRA SCT008 SCT030 INTER 1200/1400 4000 SHRA BKN010" },
+		{
+		"date": {
+		"pretty": "10:30 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "22",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "11:30 AM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "11",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"23.0", "dewpti":"73.4","hum":"94","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"310","wdire":"NW","vism":"10.0", "visi":"6.2","pressurem":"1013", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 211130Z 31007KT 9999 FEW020 SCT120 BKN140 24/23 Q1013 FM1200 31008KT 9999 -SHRA SCT008 SCT030 INTER 1230/1400 4000 SHRA BKN008" },
+		{
+		"date": {
+		"pretty": "11:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "23",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "12:00 PM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "12",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"23", "tempi":"74","dewptm":"22", "dewpti":"72","hum":"91","wspdm":"16.7", "wspdi":"10.4","wgustm":"", "wgusti":"","wdird":"330","wdire":"NNW","vism":"", "visi":"","pressurem":"1013", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 21124 94767 46/// /3309 10234 20222 30124 40130" },
+		{
+		"date": {
+		"pretty": "11:00 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "23",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "12:00 PM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "12",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"23.0", "tempi":"73.4","dewptm":"22.0", "dewpti":"71.6","hum":"94","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"330","wdire":"NNW","vism":"10.0", "visi":"6.2","pressurem":"1013", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 211200Z 33009KT 9999 FEW030 SCT120 BKN140 23/22 Q1013 FM1230 31008KT 9999 -SHRA SCT008 SCT030 INTER 1230/1400 4000 SHRA BKN008" },
+		{
+		"date": {
+		"pretty": "11:30 PM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "23",
+		"min": "30",
+		"tzname": "Australia/Sydney"
+		},
+		"utcdate": {
+		"pretty": "12:30 PM GMT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "12",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"23.0", "tempi":"73.4","dewptm":"23.0", "dewpti":"73.4","hum":"100","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"330","wdire":"NNW","vism":"10.0", "visi":"6.2","pressurem":"1012", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Light Rain","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR YSSY 211230Z 33010KT 9999 -RA FEW006 SCT020 BKN100 23/23 Q1012 FM1330 32008KT 9999 SCT008 SCT025 INTER 1230/1330 4000 SHRA BKN008" }
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "12:00 AM AEDT on March 21, 2017",
+		"year": "2017",
+		"mon": "03",
+		"mday": "21",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Australia/Sydney"
+		},
+		"fog":"0","rain":"1","snow":"0","snowfallm":"", "snowfalli":"","monthtodatesnowfallm":"", "monthtodatesnowfalli":"","since1julsnowfallm":"", "since1julsnowfalli":"","snowdepthm":"", "snowdepthi":"","hail":"0","thunder":"1","tornado":"0","meantempm":"26", "meantempi":"78","meandewptm":"22", "meandewpti":"72","meanpressurem":"1013.67", "meanpressurei":"29.94","meanwindspdm":"14", "meanwindspdi":"9","meanwdire":"NNE","meanwdird":"33","meanvism":"10.5", "meanvisi":"6.5","humidity":"85","maxtempm":"28", "maxtempi":"82","mintempm":"23", "mintempi":"73","maxhumidity":"100","minhumidity":"63","maxdewptm":"24", "maxdewpti":"75","mindewptm":"21", "mindewpti":"70","maxpressurem":"1016", "maxpressurei":"30.01","minpressurem":"1012", "minpressurei":"29.89","maxwspdm":"24", "maxwspdi":"15","minwspdm":"0", "minwspdi":"0","maxvism":"25.0", "maxvisi":"16.0","minvism":"0.8", "minvisi":"0.5","gdegreedays":"28","heatingdegreedays":"0","coolingdegreedays":"12","precipm":"29.0", "precipi":"1.14","precipsource":"Precip6GroupSynop","heatingdegreedaysnormal":"","monthtodateheatingdegreedays":"","monthtodateheatingdegreedaysnormal":"","since1sepheatingdegreedays":"","since1sepheatingdegreedaysnormal":"","since1julheatingdegreedays":"","since1julheatingdegreedaysnormal":"","coolingdegreedaysnormal":"","monthtodatecoolingdegreedays":"","monthtodatecoolingdegreedaysnormal":"","since1sepcoolingdegreedays":"","since1sepcoolingdegreedaysnormal":"","since1jancoolingdegreedays":"","since1jancoolingdegreedaysnormal":"" }
+		]
+	}
+}

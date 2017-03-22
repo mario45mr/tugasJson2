@@ -1,0 +1,38 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "almanac": 1
+  }
+	}
+		,
+	"almanac": {
+		"airport_code": "YSSY",
+		"temp_high": {
+		"normal": {
+		"F": "75",
+		"C": "23"
+		}
+		,
+		"record": {
+		"F": "92",
+		"C": "33"
+		},
+		"recordyear": "2013"
+		},
+		"temp_low": {
+		"normal": {
+		"F": "63",
+		"C": "17"
+		}
+		,
+		"record": {
+		"F": "57",
+		"C": "13"
+		},
+		"recordyear": "2016"
+		}
+	}
+}
